@@ -2,13 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Backend
+# Frontend details
 
-## Deployed at heroku
+### Deployed at the below link
+
+
+
+# Backend details
+
+### Github Repo can be found below
+
+https://github.com/Chaitanyadp/EMailServiceAPI
+
+### EmailServiceAPI abckend application is deployed at the link below.
 
 https://backend-flask-mysql.herokuapp.com/
 
-## Created pip package emailservice being used in the backend service API
+## Created a pip package "emailservice" being used in the backend service API
 
 ### `pip install emailservice`
 
